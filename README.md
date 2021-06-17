@@ -6,6 +6,4 @@ data.
 
 You will need to this in order to get the code working without problems!
 
-## Subheader
 
-This is an example.
